@@ -17,17 +17,27 @@
 Servo-driven, tendon-based wearable robotic gripper that applies AP Physics C concepts (torque, levers, mechanical advantage, rotational dynamics).  
 Designed in Onshape, fabricated with school 3D printer, controlled by Arduino.
 
-### Full Timeline
+### Full Timeline (Purdue RD – January 2027 deadline)
 - **May 15 – June 2026**: Full CAD design in Onshape
-- **June – July 2026**: 3D printing at school + assembly
-- **August – November 2026**: Arduino coding, testing, video
+- **June – July 2026**: 3D printing at school + physical assembly + tendon connection
+- **August – November 2026**: Arduino coding, testing, iteration, video documentation
 - **December 2026**: Final Purdue RD submission
+
+### Parts List (Research only – purchasing after May 15)
+**Core Components**
+- SG90 or MG90S servo (1–2 units)
+- Arduino Nano or Uno
+- Fishing line / thin tendon material
+- Velcro strap for wrist attachment
+- M2/M3 bolts and nuts for servo mounting
+
+**3D Printing**: School 3D printer (no home printer)
 
 ---
 
 **Next Steps (starting May 15)**
 1. Begin CAD in Onshape
-2. Document physics calculations
+2. Document physics calculations (torque, lever ratios)
 3. Build and iterate the gripper
 
-This folder will be updated regularly.
+This folder will be updated regularly as the project progresses.
