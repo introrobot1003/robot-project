@@ -1,45 +1,40 @@
 # robot-project
 
 **Wearable Assistive Hand Gripper**  
-A servo-driven, tendon-based wearable robotic gripper for Purdue University FYE Regular Decision application.
+A servo-driven, tendon-based wearable robotic gripper for Purdue University FYE Regular Decision application (Class of 2027).
 
 ### Project Overview
-This project applies **AP Physics C concepts** (torque, levers, mechanical advantage, rotational dynamics) to design and build a functional **wearable assistive hand gripper**. The device helps people with weak grip strength by using a servo motor and fishing-line tendons to actively close the fingers.
-
-- **CAD Software**: Onshape (full access until graduation)
-- **Fabrication**: School 3D printer
-- **Electronics**: Arduino + SG90/MG90S servo
-- **Goal**: Create a working prototype with documentation, code, and video to demonstrate engineering process and physics application
-
-### Repository Purpose
-This is the **workshop repository** — the place where all original working files are stored:
+This is the **workshop repository** where all original working files are stored:
 - Onshape CAD files
 - STL files for 3D printing
 - Arduino code
-- Physics calculations
+- Physics calculations (torque, levers, mechanical advantage)
 - Build logs, failures, and iterations
 
-The clean, public-facing portfolio is in the separate [`physics-in-action-website`](https://github.com/YOUR-USERNAME/physics-in-action-website) repository.
+The clean public portfolio is in the separate [`physics-in-action-website`](https://github.com/YOUR-USERNAME/physics-in-action-website) repository.
 
-### Current Status (Day 0 — April 29, 2026)
-- [x] Onshape account confirmed (already used for school assignments)
-- [x] Arduino Projects Book — Project 05 (Mood Cue / Servo control) reviewed
-- [x] School 3D printer access confirmed
-- [ ] Full CAD design begins May 15, 2026 (after AP exams)
-- [ ] 3D printing and physical assembly
-- [ ] Arduino servo control code implementation
+### Project Goal
+Design and build a functional assistive hand gripper that applies **AP Physics C concepts** (torque, levers, mechanical advantage, rotational dynamics) in a real engineering context.  
+The device helps people with weak grip strength using a servo motor and fishing-line tendons.
 
-### Project Timeline (Purdue RD — January 2027 deadline)
-- **May 15 – June 2026**: Onshape CAD (hand platform, levers, servo mount, wrist strap)
-- **June – July 2026**: 3D printing at school + tendon assembly
-- **August 2026**: Arduino coding and testing
-- **September – November 2026**: Iteration, video documentation, GitHub Pages updates
-- **December 2026**: Final Purdue RD essay and portfolio submission
+### Key Details
+- **CAD**: Onshape (full educational license until graduation)  
+- **Fabrication**: School 3D printer  
+- **Electronics**: Arduino + SG90/MG90S servo  
+- **Status**: Development begins May 15, 2026 (after AP exams)  
+- **Target Completion**: December 2026 (for Purdue FYE RD submission)
 
----
+### Academic Context
+- GPA ~3.6  
+- 11th grade: AP Calculus AB (C), AP Physics 1 (B), AP Physics C: Mechanics (B), AP Physics C: E/M (ongoing)  
+- SAT: Planning to take in August/September 2026  
 
-**이 README 만들었으면** “README 만들었다” 또는 스크린샷 한 번만 보내줘.
+This project is my main way of demonstrating engineering potential and problem-solving ability to Purdue FYE.
 
-그 다음에 바로 **`Day-0-Preparation` 폴더 + 영어 README**도 만들어줄게.
+### Repository Structure (Planned)
+- `Day-0-Preparation/` — Preparation notes  
+- `CAD/` — Onshape files and STL exports  
+- `Code/` — Arduino code  
+- `Docs/` — Physics calculations and build logs  
+- `Assets/` — Photos and videos  
 
-준비됐어? 🔥
