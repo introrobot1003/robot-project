@@ -37,4 +37,26 @@ This project is my main way of demonstrating engineering potential and problem-s
 - `Code/` — Arduino code  
 - `Docs/` — Physics calculations and build logs  
 - `Assets/` — Photos and videos  
+# Day 0 Preparation
+
+**Date:** May 3, 2026  
+**Status:** AP Exam D-11 (Physics C Mechanics, E/M, Calc BC)
+
+## Project Overview
+**Main Personal Project:** Wearable Assistive Hand Gripper  
+A servo-driven, tendon-based wearable robotic device designed to assist people with weak grip strength.
+
+### Key Details
+- **Primary CAD Tool:** Onshape (all main design and 3D printing files will be created here)
+- **Start Date:** May 15, 2026 (immediately after AP exams)
+- **Workflow:** Onshape for modeling + Grok for physics feedback, torque calculations, lever analysis, and design reviews
+- **Auxiliary Tools:** Adam.new and Zoo.dev will be used only when needed for rapid ideation
+- **Goal:** Apply AP Physics C concepts (torque, levers, mechanical advantage, rotational dynamics) to build a fully functional prototype
+
+### Purpose
+This project will serve as the centerpiece of my Purdue FYE application, demonstrating hands-on engineering skills and the ability to connect classroom physics to real-world problem solving.
+
+---
+
+**Next Step (May 15):** Begin Onshape modeling with Hand Platform.
 
